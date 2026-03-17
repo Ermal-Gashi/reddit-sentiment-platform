@@ -1,0 +1,211 @@
+{
+  "positive": {
+    "moon": 2.2, "to_the_moon": 2.6, "moonshot": 2.4,
+    "pump": 1.9, "rip": 1.8, "rally": 1.7, "breakout": 1.7,
+    "surge": 1.6, "runup": 1.5, "momentum": 1.3,
+    "bullish": 2.5, "bullrun": 2.2, "bull": 1.4,
+    "undervalued": 1.4, "cheap": 0.9,
+    "green": 0.6, "green_day": 0.8,
+    "buy_signal": 1.4, "entry": 1.1, "accumulate": 1.2,
+    "overperform": 1.3, "beat": 1.5, "beat_estimates": 2.0,
+    "guidance_raised": 1.8, "upgrade": 1.6,
+    "profit": 1.7, "cashflow_positive": 1.5,
+    "gains": 1.6, "gainz": 1.8,
+    "stonks": 1.3, "stonk": 1.4,
+    "rebound": 1.3, "recover": 1.2, "bounce": 1.2,
+    "soft_landing": 1.1, "expansion": 1.0,
+    "strong_buy": 2.0, "buy_the_dip": 1.7, "btd": 1.7,
+    "fly": 1.4, "skyrocket": 1.7, "explode_up": 1.8,
+    "send_it": 1.6, "full_port_send": 1.8,
+    "port_yolo": 1.7, "degen_play": 1.2,
+    "degenerate": 0.9, "apes_together": 1.4,
+    "diamond_hands": 2.2, "permabull": 1.0,
+    "rocket_ship": 1.8, "mooning": 1.8,
+    "mega_rip": 1.7, "rip_city": 1.3,
+    "buying_pressure": 1.2, "upper_circuit": 1.0,
+    "green_candle": 1.1, "all_in": 1.0,
+    "in_the_green": 0.9,
+
+    "based": 0.4, "gigabrain": 0.6,
+    "w": 0.5, "massive_w": 0.8,
+    "big_brain": 0.7
+  },
+
+  "negative": {
+    "bearish": -2.5, "bear": -1.4,
+    "dump": -1.9, "crash": -2.5, "collapse": -2.6, "tank": -2.0,
+    "selloff": -1.8, "sell-off": -1.8,
+    "bloodbath": -2.6, "plunge": -2.1,
+    "rugpull": -3.0, "rug": -2.4,
+    "bagholder": -1.6, "bagholding": -1.7,
+    "overvalued": -2.0, "frothy": -0.7,
+    "bubble": -2.0, "bubble_burst": -2.6,
+    "ponzi": -3.0, "ponzi_scheme": -3.2,
+    "pyramid": -2.7, "pyramid_scheme": -2.9,
+    "fraud": -3.0, "scam": -3.2,
+    "insolvent": -2.8, "bankruptcy": -3.0,
+    "chapter_11": -3.0, "defaults": -2.4,
+    "downgrade": -1.7,
+    "warning": -1.2, "miss": -1.7, "missed_guidance": -2.1,
+    "layoffs": -1.8, "fired": -1.6,
+    "cutbacks": -1.2, "tanking": -2.0, "slump": -1.2,
+    "fear": -1.3, "panic": -1.8,
+    "uncertainty": -0.8,
+    "meltdown": -2.3, "disaster": -2.4,
+
+    "paper_hands": -1.4, "bag_securing": -1.0,
+    "clapped": -1.3, "rekt_city": -1.5,
+    "rugged": -2.0, "screwed": -1.2,
+    "dumpster_fire": -2.2, "sell_everything": -1.6,
+    "limit_down": -1.4, "carnage": -2.0,
+    "wipeout": -2.2, "dead_cat": -1.2,
+    "red_candle": -1.0, "max_pain": -1.5,
+    "perma_bear": -1.0,
+
+    "clown_market": -1.3,
+    "casino": -0.8, "braindead": -1.4,
+    "delusional": -1.0, "copium": -1.2,
+    "hopium": -0.3, "cope_harder": -1.0,
+    "npc": -0.7, "doompost": -1.1,
+    "terminal_bear": -1.2,
+    "terminal_bull": -0.6,
+    "reddit_analyst": -0.8,
+    "l": -0.5, "massive_l": -0.9,
+    "skill_issue": -0.5, "down_bad": -0.7
+  },
+
+  "macro": {
+    "inflation": -1.3, "disinflation": 0.4,
+    "cpi": -0.8, "ppi": -0.7, "core_cpi": -0.7,
+    "fomc": -0.5, "fed": -0.5, "federal_reserve": -0.5,
+    "rate_hike": -1.4, "rate_cut": 1.2,
+    "tightening": -0.8, "easing": 0.6,
+    "pivot": 1.1,
+    "employment": 0.4, "jobs_report": 0.3,
+    "gdp": 0.3, "growth": 0.7,
+    "recession": -2.2, "slowdown": -1.1,
+    "yield_curve": -1.2, "inverted_curve": -1.3,
+    "treasury": -0.4, "bond_yields": -0.6,
+    "unemployment": -1.4,
+    "stagflation": -2.1, "stagflationary": -1.8,
+    "macro_headwinds": -1.0,
+    "hot_print": -1.0, "sticky_inflation": -1.0,
+    "dovish": 0.5, "hawkish": -0.6,
+    "easing_cycle": 0.7,
+    "stabilizing": 0.6,
+    "strong_print": 0.4
+  },
+
+  "earnings": {
+    "earnings": 1.2, "eps": 1.1, "revenue": 1.0,
+    "guidance": 0.6, "beat": 1.4, "miss": -1.6,
+    "profit_warning": -1.7,
+    "margin_expansion": 1.1, "margin_compression": -1.0,
+    "full_year": 0.4, "quarterly": 0.2,
+    "beats_consensus": 1.5, "misses_consensus": -1.6,
+    "earnings_growth": 1.1, "strong_balance_sheet": 1.2,
+    "cash_rich": 1.0, "healthy_margins": 0.9,
+    "solid_guidance": 1.3
+  },
+
+  "crypto": {
+    "btc": 1.3, "bitcoin": 1.3,
+    "eth": 1.1, "ethereum": 1.1,
+    "altcoins": 0.3,
+    "shitcoin": -1.8,
+    "pump_and_dump": -2.3,
+    "halving": 1.2,
+    "fud": -1.0, "fomo": 1.3,
+    "defi": 0.5, "cefi": -0.4
+  },
+
+  "ai_tech": {
+    "ai": 1.1, "gpu": 1.0, "gpus": 1.0,
+    "chip": 0.8, "chips": 0.8,
+    "semiconductor": 0.6, "semiconductors": 0.6,
+    "inference": 0.9, "training": 0.4,
+    "datacenter": 0.5,
+    "accelerator": 0.5,
+    "transformer": 0.3,
+    "generative_ai": 1.2,
+    "fab": 0.4, "fabs": 0.4,
+    "h100": 1.4, "h200": 1.4,
+    "llm": 0.8, "gpu_cluster": 1.1,
+    "inference_rush": 1.2
+  },
+
+  "market_structure": {
+    "liquidity": 0.3,
+    "orderflow": 0.2,
+    "darkpool": -0.3,
+    "implied_vol": -0.4, "iv": -0.4,
+    "gamma": 0.3, "gamma_squeeze": 1.6,
+    "vanna": 0.2, "charm": 0.2,
+    "volatility": -0.6, "vol": -0.5,
+    "overflowing_supply": -0.6
+  },
+
+  "derivatives": {
+    "calls": 0.6, "call": 0.4,
+    "puts": -0.6, "put": -0.4,
+    "leaps": 0.3,
+    "short": -0.5, "long": 0.5,
+    "strangle": 0.2, "straddle": 0.2,
+    "iron_condor": 0.3,
+    "theta": -0.2, "delta": 0.3, "vega": 0.2,
+    "theta_decay": -0.4,
+    "gamma_ramp": 1.2, "gamma_crush": -1.0,
+    "iv_crush": -1.1
+  },
+
+  "banking": {
+    "rate_hike": -1.4,
+    "liquidity_crisis": -2.0,
+    "solvency": 0.3,
+    "credit_crunch": -2.1,
+    "default": -2.0,
+    "downgrade": -1.6,
+    "stress_test": 0.2,
+    "deposit_outflows": -1.7,
+    "bailout": -1.4,
+    "capital_controls": -1.2
+  },
+
+  "valuation": {
+    "undervalued": 1.4,
+    "overvalued": -2.0,
+    "fair_value": 0.5,
+    "pe_ratio": 0.1,
+    "multiple_expansion": 0.4,
+    "multiple_compression": -0.4,
+    "discounted_cash_flow": 0.2,
+    "dcf": 0.2,
+    "margin": 0.1,
+    "efficient_capital_allocation": 0.9
+  },
+
+  "tickers": {
+    "NVDA": 2.0, "TSLA": 1.8, "AAPL": 1.5, "MSFT": 1.4, "AMZN": 1.4,
+    "AMD": 1.2, "META": 1.4, "GOOG": 1.3, "NFLX": 1.2,
+    "GME": 2.1, "AMC": 1.8,
+    "SOFI": 0.9, "PLTR": 0.9, "NIO": 0.4,
+    "BABA": -0.4, "TCEHY": -0.2,
+    "BTC": 1.3, "ETH": 1.1
+  },
+
+  "slang_positive": {
+    "yolo": 1.1, "gainz": 1.3, "hype": 1.2,
+    "chad": 0.8, "gigachad": 1.3,
+    "laser_eyes": 1.0, "ape": 1.1,
+    "apes_together_strong": 1.5
+  },
+
+  "slang_negative": {
+    "bag": -1.4, "bagholder": -1.6,
+    "rekt": -1.4,
+    "clown": -0.8, "cringe": -0.8,
+    "cope": -0.6,
+    "dumb": -0.8, "idiot": -0.9,
+    "lmao_what": -1.0
+  }
+}
