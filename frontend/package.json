@@ -1,0 +1,38 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@headlessui/react": "^2.2.9",
+    "@heroicons/react": "^2.2.0",
+    "@mui/material": "^7.3.4",
+    "@mui/x-date-pickers": "^8.16.0",
+    "axios": "^1.13.2",
+    "clsx": "^2.1.1",
+    "d3": "^7.9.0",
+    "d3-cloud": "^1.2.8",
+    "date-fns": "^4.1.0",
+    "framer-motion": "^12.23.24",
+    "lucide-react": "^0.555.0",
+    "next": "16.0.1",
+    "plotly.js": "^3.1.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-plotly.js": "^2.6.0",
+    "recharts": "^3.3.0",
+    "tailwind-merge": "^3.4.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.2"
+  }
+}
